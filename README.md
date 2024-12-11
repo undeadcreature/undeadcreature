@@ -1,4 +1,8 @@
-## Hi there 👋 I'm Del
+## Hi there 👋 I'm Del...
+[codepen](https://codepen.io/undeadcreature)
+[Linkedin](https://www.linkedin.com/in/disha-3766282a0/)
+[Instagram](https://www.instagram.com/dishabhavsar_/)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=undeadcreature&layout=compact&langs_count=5&theme=radical)
 
 <!--
