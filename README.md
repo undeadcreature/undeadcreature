@@ -1,9 +1,14 @@
 ## Hi there 👋 I'm Del...
-[codepen](https://codepen.io/undeadcreature)
+[Codepen](https://codepen.io/undeadcreature)
+
 [Linkedin](https://www.linkedin.com/in/disha-3766282a0/)
+
 [Instagram](https://www.instagram.com/dishabhavsar_/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=undeadcreature&layout=compact&langs_count=5&theme=radical)
+
+![WakaTime](https://wakatime.com/badge/user/4deb49c5-407e-4a98-a7fa-8227cb9dc7b8/project/8d621a1e-385b-44c9-9a8f-f7d0c5f87826.svg)
+
 
 <!--
 **undeadcreature/undeadcreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
