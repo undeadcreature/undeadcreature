@@ -7,7 +7,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=undeadcreature&layout=compact&langs_count=6&theme=radical)
 
-![WakaTime](https://wakatime.com/badge/user/4deb49c5-407e-4a98-a7fa-8227cb9dc7b8/project/8d621a1e-385b-44c9-9a8f-f7d0c5f87826.svg)
+![WakaTime](https://wakatime.com/badge/user/4deb49c5-407e-4a98-a7fa-8227cb9dc7b8/project/d04f1ae6-e723-49e0-bedf-2bba89d12e62.svg)
 
 
 <!--
